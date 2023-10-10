@@ -1,3 +1,9 @@
 git clone URL du dépôt distant
 git add nom-du-fichier
 git commit -m commentaire
+
+git pull
+Git récupère les dernières modifications du dépôt distant
+(généralement branche par défaut, comme "master" ou "main")
+et les fusionne automatiquement avec votre branche locale actuelle.
+Cela permet de mettre à jour votre copie locale du dépôt avec les dernières modifications du dépôt distant
