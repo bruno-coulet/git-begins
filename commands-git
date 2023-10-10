@@ -1,0 +1,3 @@
+git clone URL du dépôt distant
+git add nom-du-fichier
+git commit -m commentaire
